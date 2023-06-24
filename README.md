@@ -56,7 +56,7 @@ $ ipython notebook
 
 ## Built With
 
-* python (2.7)
+* python (3.7)
 * numpy
 * scipy
 * pandas
