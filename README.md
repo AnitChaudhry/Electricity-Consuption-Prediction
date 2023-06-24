@@ -64,6 +64,6 @@ $ ipython notebook
 * patsy
 * statsmodels
 
-## Authors
+## Author
 
-* **Rafael Guerreiro Osorio** - *Initial work* - [Instituto de Pesquisa Econômica Aplicada](www.ipea.gov.br) - [International Policy Centre for Inclusive Growth](www.ipc-undp.org)
+Anit Choudhury
